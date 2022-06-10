@@ -43,10 +43,10 @@ the file could look like:
 </pre>
 
 The hotel manager also wants your program to account for the fact that
-there is no 13^th^ floor at the Swynn. Most hotels do not have a 13^th^
+there is no 13<sup>th</sup> floor at the Swynn. Most hotels do not have a 13<sup>th</sup>
 floor as the number 13 is considered unlucky. Triskaidekaphobia is the
-fear of the number 13! Instead of a 13^th^ floor, the Swynn goes
-straight from the 12^th^ floor to the 14^th^ floor.
+fear of the number 13! Instead of a 13<sup>th</sup> floor, the Swynn goes
+straight from the 12<sup>th</sup> floor to the 14<sup>th</sup> floor.
 
 **Notes:**
 
